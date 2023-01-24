@@ -1,0 +1,14 @@
+spring:
+  data:
+    mongodb:
+      host: localhost
+      port: 27017
+      database: chatdb
+      
+server:
+  port: 8080
+
+ # mvc:
+   # view:
+     # prefix: /WEB-INF/views/
+      #suffix: .jsp
